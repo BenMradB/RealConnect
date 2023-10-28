@@ -1,4 +1,3 @@
-import React from "react";
 import ConversationHeader from "./ConversationHeader";
 import Messages from "./Messages";
 import Input from "./Input";
